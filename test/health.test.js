@@ -7,5 +7,3 @@ describe("Health Check", () => {
     expect(res.statusCode).toBe(200);
   });
 });
-
-//added this test
